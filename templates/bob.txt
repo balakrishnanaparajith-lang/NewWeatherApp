@@ -1,0 +1,2 @@
+<label for="city" class="sr-only">City Name</label>
+<input id="city" name="city" placeholder="WHATS GOOD BRO">
